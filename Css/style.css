@@ -1,0 +1,106 @@
+.navbar{
+	top:0px;
+	left: 0px;
+	width: 100%;
+	position: fixed;
+	font-family: cursive;
+	font-size: 50px;
+	background:url('../img/Shapka.jpg') no-repeat;
+	background-size: cover;
+}
+.logo a {text-decoration: none;
+	padding: 25px 10px;
+	color: #FFF;
+	font-style: initial;
+	font-weight: 900;
+}
+
+.logo{ margin-left:5%;margin-top: 5%; margin-bottom: 5%;float: left;}
+.nav {
+	float: right;
+	padding: 15px;
+}
+.ul .li{
+	display: inline-block;
+	margin-right: 50px;
+	list-style: none;
+}
+.ul .li a {
+	text-decoration: none;
+	padding: 25px 10px;
+	color: white;
+font-size: 30px}
+.nav {
+	float: right;
+	padding: 15px;
+}
+body{
+	
+	background:url('../img/fon.jpg') no-repeat;
+	background-size: cover;
+
+}
+.container{margin-top: 20%;}
+.text{
+text-align: center;
+font-size: 40pt;
+color: #fff;
+font-weight:900;
+font-style: initial;}
+.button{margin-top: 1%;}
+.button1{ background-color:#ffa500;
+	width: 200px;
+	height: 50px;
+}
+.button1:hover{
+	background-color: #dcdcdc
+}
+.shop{
+	margin-top: 15%;
+}
+.shopUl{text-align: center;}
+.shopUl .shopLi {
+	display: inline-block;
+	list-style: none;
+	margin-left: 2%;
+	color: white;
+	font-size: 30px;
+	font-weight: 900;
+	font-style: initial;
+}
+.round1 {
+    border-radius: 100px; 
+    border: 3px solid black; 
+    box-shadow: 0 0 7px #666; 
+   }
+   .round2 {
+    border-radius: 100px; 
+    border: 3px solid black; 
+    box-shadow: 0 0 7px #666; 
+   }
+   .footer
+   {
+   	color: white;
+   	font-weight: 900;
+   	font-style: initial;
+   	font-size: 20px;
+margin-top: auto;
+    border: 3px solid white;
+    margin-top: 5%;
+   }
+   .page{
+   	overflow: hidden;
+   	display: flex;
+   	flex-direction: column;
+   	min-height: 100vh;
+   }
+   .form-text{width: 300px; height: 100px;padding-top: 0;border-radius: 20px; 
+    border: 1px solid black; }
+   .form{text-align: center;}
+   .glav{font-size: 40px; color: white; font-weight: 900;font-style: initial;}
+   .form-button{width: 200px;height: 50px}
+   .my-photo{ margin-top: 10%; }
+   .porfolio{margin-top: 20%;}
+   .porfolio-ul .p-li{display: inline-block;
+	list-style: none;}
+   .text-li{margin-left: 10%; padding-top: 0%;color: white;font-weight: 900;font-style: initial;font-size: 16px;}
